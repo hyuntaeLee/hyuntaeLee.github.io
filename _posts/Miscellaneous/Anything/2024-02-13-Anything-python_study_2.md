@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【PY_00】Python Study
+title: 【PY_02】Python Study
 subtitle: with book
 categories: Anything
 banner:
