@@ -8,7 +8,7 @@ banner:
 tags: [python, study]
 ---
 
-## [Python] 기본-2
+## Basic of Python-2
 
 ### 네이밍 커벤션
 

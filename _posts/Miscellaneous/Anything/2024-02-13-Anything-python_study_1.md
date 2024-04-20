@@ -8,7 +8,7 @@ banner:
 tags: [python, study]
 ---
 
-## [Pythonn] 기본-1
+## Basic of Python-1
 
 ### Loop
 

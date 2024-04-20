@@ -8,7 +8,7 @@ banner:
 tags: [python, study]
 ---
 
-## [Python] 기본-3
+## Basic of Python-3
 
 ### 변수명과 주석
 
