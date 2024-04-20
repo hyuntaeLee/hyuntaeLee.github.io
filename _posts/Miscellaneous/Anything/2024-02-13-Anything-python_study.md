@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 【PY_00】Python Study
-subtitle: wth book
+subtitle: with book
 categories: Anything
 banner:
   image: https://private-user-images.githubusercontent.com/97331148/324168419-e789a508-d269-4dd0-9894-f4a90ad7213a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2MDU2NjAsIm5iZiI6MTcxMzYwNTM2MCwicGF0aCI6Ii85NzMzMTE0OC8zMjQxNjg0MTktZTc4OWE1MDgtZDI2OS00ZGQwLTk4OTQtZjRhOTBhZDcyMTNhLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDIwVDA5MjkyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiOGE5ODg1NzJhMDJkMTRiNWQxODBiNjg1ZDBlNzEzMzZkNTE1ZTJiNWI1YTFlOTA4NmE0OTQxYzExNmY3YjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AAB_PBGr23-9tvevtOMO7t47dEKKtoBouUgVZz9En3k
-tags: [Docker, vscode]
+tags: [python, study]
 ---
 # [Pythonn] 기본-1
 ### Loop
