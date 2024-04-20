@@ -1,0 +1,19 @@
+- name: "Vulnerability" 
+  subcategories:
+    - "CVE_Windows"
+    - "CVE_Linux"
+    - "Fuzz"
+    - "Stack" 
+    - "Heap"
+- name: "Security Challenges"
+  subcategories:
+    - "CTF"
+    - "Wargame"
+- name: "Robot Operating System"
+  subcategories:
+    - "Development"
+    - "Analysis"
+- name: "Miscellaneous"
+  subcategories:
+    - "Anything"
+    - "Environment"
