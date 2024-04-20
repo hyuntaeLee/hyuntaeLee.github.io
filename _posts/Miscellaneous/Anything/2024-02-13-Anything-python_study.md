@@ -5,14 +5,10 @@ subtitle: with book
 categories: Anything
 banner:
   image: https://private-user-images.githubusercontent.com/97331148/324168419-e789a508-d269-4dd0-9894-f4a90ad7213a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2MDc0MTMsIm5iZiI6MTcxMzYwNzExMywicGF0aCI6Ii85NzMzMTE0OC8zMjQxNjg0MTktZTc4OWE1MDgtZDI2OS00ZGQwLTk4OTQtZjRhOTBhZDcyMTNhLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDIwVDA5NTgzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkM2YxOWNhODc3YWFmYjc2YjdhM2IzYmZmMTRjMzJmYzk1YjQ3NTNmZWI3ODA3YWRlMjVlYTMyOTAxMWQ4NjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nd0wd9DNa_ACIIW6tk0xx6XatFE89df1N_D04kuv91o
-  opacity: 0.618
-  background: "#000"
-  height: "100vh"
-  min_height: "38vh"
-  heading_style: "font-size: 4.25em; font-weight: bold;"
 tags: [python, study]
 ---
 # [Pythonn] 기본-1
+
 ### Loop
 
 ```cpp
