@@ -188,3 +188,11 @@ print(rect.area())
 
 > 구조체 만들때 사용한 dataclass 데코레이션을 이용해 클래스를 선언했다. 물론 dataclass를 선언하지 않아도 클래스 구현에는 문제가 없다.
 >
+
+## reference
+
+해당 포스트은 "파이썬 알고리즘 인터뷰" 책을 구매해서 내용을 정리한 포스트입니다.  
+[책 구매하기](https://www.yes24.com/Product/Goods/91084402)
+<p align="center">
+<img src="https://github.com/hyuntaeLee/hyuntaeLee.github.io/assets/97331148/bf17718d-042e-40d1-acb4-72b0e7ba1773" width = 300>
+</p>

@@ -330,3 +330,11 @@ c = Myclass()
 ```
 
 > pass는 널 연산으로 아무것도 하지 않는 기능이다. 이렇게 아무역할을 하지 않는 pass를 지정하면, 앞서 발생한 인덴트 오류 같은 불필요한 오류를 방지한다.
+
+## reference
+
+해당 포스트은 "파이썬 알고리즘 인터뷰" 책을 구매해서 내용을 정리한 포스트입니다.  
+[책 구매하기](https://www.yes24.com/Product/Goods/91084402)
+<p align="center">
+<img src="https://github.com/hyuntaeLee/hyuntaeLee.github.io/assets/97331148/bf17718d-042e-40d1-acb4-72b0e7ba1773" width = 300>
+</p>

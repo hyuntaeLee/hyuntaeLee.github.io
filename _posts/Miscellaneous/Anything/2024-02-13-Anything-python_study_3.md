@@ -90,3 +90,11 @@ for i in range(len(str1) - 1):
 
 > 아니면 이렇게 가독성을 위해서 풀어 쓰는게 나쁘지 않을 수 있다.
 >
+
+## reference
+
+해당 포스트은 "파이썬 알고리즘 인터뷰" 책을 구매해서 내용을 정리한 포스트입니다.  
+[책 구매하기](https://www.yes24.com/Product/Goods/91084402)
+<p align="center">
+<img src="https://github.com/hyuntaeLee/hyuntaeLee.github.io/assets/97331148/bf17718d-042e-40d1-acb4-72b0e7ba1773" width = 300>
+</p>
