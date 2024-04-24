@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【PY_etc】Python Input
+title: 【PY_etc】 Python Input
 subtitle: sys.stdin.readline
 categories: Anything
 banner:
