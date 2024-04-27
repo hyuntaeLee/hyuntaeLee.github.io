@@ -2,7 +2,7 @@
 layout: post
 title: 【PY_04】Python Study
 subtitle: with book
-categories: Anything
+categories: Python
 banner:
   image: https://github.com/hyuntaeLee/hyuntaeLee.github.io/assets/97331148/8a91cce1-f6ff-4080-a59b-625b14f1737f
 tags: [python, study]
