@@ -9,6 +9,11 @@
   subcategories:
     - "CTF"
     - "Wargame"
+- name: "Dev&Backgound"
+  subcategories:
+    - "Linux"
+    - "Python"
+    - "Rust"
 - name: "Robot Operating System"
   subcategories:
     - "Development"
