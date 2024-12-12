@@ -9,7 +9,6 @@ tags: [linux, kernel, Review]
 ---
 
 # 1. OS란?
-
 컴퓨터는 크게 Hardware와 Software로 구분이 된다.
 
 소프트웨어는 **OS(Operating System)**와 응용프로그램으로 다시 구분이 된다.
@@ -35,7 +34,6 @@ tags: [linux, kernel, Review]
     - 특화된 개별 작업을 수행하는 프로그램들이다.
 
 # 2. Linux Kernel
-
 ## 2-1. Linux Kernel?
 
 Linux Kernel은 OS의 핵심 구성 요소로, Hardware와 Software 사이의 중요한 인터페이스 역할을 합니다. 주요 기능은 다음과 같다.
@@ -51,7 +49,7 @@ Linux Kernel은 OS의 핵심 구성 요소로, Hardware와 Software 사이의 �
 >사용자와의 상호작용을 위해 OS는 Kernel 외에도 시스템 프로그램을 제공한다.
 >이중 가장 대표적인 것이 쉘(Shell)이다.
 
-## 2-2. Linux Kernel S**tructure**
+## 2-2. Linux Kernel Structure
 
 Kernel의 가장 큰 역할은 컴퓨터의 물리적(Hardware)자원과 추상화 자원을 관리 하는 것이다.
 
@@ -231,7 +229,7 @@ Compile time and Runtime
 
 ## reference
 * [[Linux Kernel] 커널의 개념과 리눅스 커널의 구조](https://5equal0.tistory.com/entry/Linux-Kernel-%EC%BB%A4%EB%84%90%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%BB%A4%EB%84%90%EC%9D%98-%EA%B5%AC%EC%A1%B0)
-* [Linux 커널 | OS, 커널이란?](https://www.devkuma.com/docs/linux/kernel/basic1/)
+* [Linux 커널 OS, 커널이란?](https://www.devkuma.com/docs/linux/kernel/basic1/)
 * [[linux kernel] (1) - 커널(kernel)이란?](https://jiravvit.tistory.com/entry/linux-kernel-1-%EC%BB%A4%EB%84%90kernel%EC%9D%B4%EB%9E%80-1)
 * [[Linux] Linux Kernel Compile (리눅스 커널 컴파일)](https://junshim.github.io/linux%20kernel%20study/Linux_Kernel_Compile/)
 * [[Linux Kernel] System call](https://velog.io/@whattsup_kim/Linux-Kernel-System-call)
