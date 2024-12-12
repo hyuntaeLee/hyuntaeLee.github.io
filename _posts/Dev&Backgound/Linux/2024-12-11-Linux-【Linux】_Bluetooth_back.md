@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Linux】 Whats kernel?
+title: 【Linux】 Bluetooth Background
 subtitle: Review
 categories: Linux
 banner:
