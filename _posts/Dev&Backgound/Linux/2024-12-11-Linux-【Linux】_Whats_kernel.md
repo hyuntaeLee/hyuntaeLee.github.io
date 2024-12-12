@@ -9,6 +9,7 @@ tags: [linux, kernel, Review]
 ---
 
 ## 1. OS란?
+
 컴퓨터는 크게 Hardware와 Software로 구분이 된다.
 
 소프트웨어는 **OS(Operating System)**와 응용프로그램으로 다시 구분이 된다.
@@ -34,6 +35,7 @@ tags: [linux, kernel, Review]
     - 특화된 개별 작업을 수행하는 프로그램들이다.
 
 ## 2. Linux Kernel
+
 ### 2-1. Linux Kernel?
 
 Linux Kernel은 OS의 핵심 구성 요소로, Hardware와 Software 사이의 중요한 인터페이스 역할을 합니다. 주요 기능은 다음과 같다.
