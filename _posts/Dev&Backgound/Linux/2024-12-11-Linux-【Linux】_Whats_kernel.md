@@ -8,7 +8,7 @@ banner:
 tags: [linux, kernel, Review]
 ---
 
-# 1. OS란?
+## 1. OS란?
 컴퓨터는 크게 Hardware와 Software로 구분이 된다.
 
 소프트웨어는 **OS(Operating System)**와 응용프로그램으로 다시 구분이 된다.
@@ -33,8 +33,8 @@ tags: [linux, kernel, Review]
 - **System Utility**
     - 특화된 개별 작업을 수행하는 프로그램들이다.
 
-# 2. Linux Kernel
-## 2-1. Linux Kernel?
+## 2. Linux Kernel
+### 2-1. Linux Kernel?
 
 Linux Kernel은 OS의 핵심 구성 요소로, Hardware와 Software 사이의 중요한 인터페이스 역할을 합니다. 주요 기능은 다음과 같다.
 
@@ -49,7 +49,7 @@ Linux Kernel은 OS의 핵심 구성 요소로, Hardware와 Software 사이의 �
 >사용자와의 상호작용을 위해 OS는 Kernel 외에도 시스템 프로그램을 제공한다.
 >이중 가장 대표적인 것이 쉘(Shell)이다.
 
-## 2-2. Linux Kernel Structure
+### 2-2. Linux Kernel Structure
 
 Kernel의 가장 큰 역할은 컴퓨터의 물리적(Hardware)자원과 추상화 자원을 관리 하는 것이다.
 
@@ -115,7 +115,7 @@ Kernel은 위에서 설명한 물리 자원과 추상 자원들을 관리(manage
 - **Device Driver Manager**
     - 각종 외부 장치(프린터, GPU 등)에대한 접근
 
-## 2-3 **Why the kernel manage these resources?**
+### 2-3 **Why the kernel manage these resources?**
 
 이유는 사용자가 물리적 하드웨어에 접근하고 사용할 수 있도록 매개하기 위해서이다. 
 
@@ -140,7 +140,7 @@ User Space의 Task들이 커널이 관리하는 자원에 접근해야할 필요
 **그래서 Kernel이란?
 ⇒ 사용자가 System Call를 통해 컴퓨터 Resource을 사용할 수 있게해주는 Resources Manager이다.**
 
-# 3. 유저 영역(user land)과 커널 영역(kernel land)
+## 3. 유저 영역(user land)과 커널 영역(kernel land)
 
 **메모리 구분**
 
@@ -164,9 +164,9 @@ User Space의 Task들이 커널이 관리하는 자원에 접근해야할 필요
 
 이러한 구분을 통해 운영체제는 시스템 자원을 안전하게 관리하고, 사용자 간 데이터 보호를 실현한다.
 
-# 4. System call
+## 4. System call
 
-## 4-1. System call handle
+### 4-1. System call handle
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9588db60-7a01-4a15-b907-8798dd587c48" width = 600>
@@ -189,7 +189,7 @@ User Space의 Task들이 커널이 관리하는 자원에 접근해야할 필요
 8. **User mode로 복귀**
     - 작업 완료 후 CPU 모드를 커널 모드에서 유저 모드로 전환하고, 저장된 상태로 복귀하여 프로그램을 계속 실행한다.
 
-## 4-2. System call Wrapper routine
+### 4-2. System call Wrapper routine
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/553fe645-d4ec-49bc-852a-7bc7df44edbd" width = 500>
