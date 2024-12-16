@@ -6,16 +6,13 @@ categories: Environment
 tags: [Docker, vscode]
 ---
 
-CTF에 나갈때 Pwnable 문제를 풀때면 풀편한게 있었다.
+CTF에 나갈때 Pwnable 문제를 풀때면 불편한게 있었다.
 
 문제를 받고 폴더 옮기고, vi 키고 끄고 하는 과정이 너무 풀편함을 느꼈다.<br>
 그래서 Vscode + Docker만 사용해서 편한 환경을 만들어봤다. +(구글링을 참고해서 만들었다)
 
-
 ## Docker Desktop
 우선 시작에 앞서 [**Docker Desktop**](https://www.docker.com/products/docker-desktop/)사이트에서 **Docker**를 다운로드해 준다.
-
-
 
 ## VScode
 
@@ -60,5 +57,3 @@ docker run -it --rm --cap-add SYS_PTRACE --security-opt seccomp:unconfined --nam
 그럼 이제 사진과 같이 VScode를 키고 터미널에 위에 명령어를 적으면 위에서 빌드한 이미지가 실행된다.
 
 study라는 공유폴더를 만든 이유는 공유폴더가 없으면 다운 받은 pwnable 문제를 또 따로 어떻게 어떻게해서 실행되고 있는 도커 환경을 옮겨야하는데, 공유 폴더가 있으면 문제를 공유 폴더로 그냥 이동만 시키면 Docker환경에서 cd 명령어로 편하게 이동할수 있다.
-
-
